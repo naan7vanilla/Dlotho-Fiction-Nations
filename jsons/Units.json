@@ -11,7 +11,20 @@
 		"cost": 56,
 		"requiredTech": "The Wheel",
 		"attackSound": "phasers"
-	}
+	},
+	{
+		"name": "Ornithopter",
+		"unitType": "Fighter",
+		"uniqueTo": "Penasulia",
+		"replaces": "Triplane",
+		"strength": 15,
+		"rangedStrength": 15,
+		"range": 5,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"promotions": ["Bombardment I"],
+		"attackSound": "phasers"
+	},
 		{
 		"name": "Ivies Legion",
 		"unitType": "Ranged",
