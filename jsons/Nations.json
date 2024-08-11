@@ -32,39 +32,5 @@
 		"unique": "INDIE_GUILD",
 		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
 			"Molasi","Sato","Fuzu","Hemecohan","Tzsubakyir","Cudo","Federhafen"]
-	},
-	
-	{
-		"name": "Boreaul",
-		"leaderName": "Echiro",
-		"adjective": ["vani"],
-		"startBias": ["Atoll"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "hi.",
-		"startIntroPart2": "sup!",
-		
-		"declaringWar": "Wibu",
-		"attacked": "wibu",
-		"defeated": "wibu",
-		"introduction": "wibu.",
-		
-		"neutralHello": "wibu",
-		"neutralLetsHearIt": ["wbi"],
-		"neutralNo": "Sorry, I dont.",
-		"neutralYes": ["vfe"],
-
-		"hateHello": "vfe",
-		"hateLetsHearIt": "Sp",
-		"hateNo": ["Tha"],
-		"hateYes": "H",
-		
-		"afterPeace": "B",
-		"tradeRequest": "Whats",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "INb",
-		"cities": ["S"]
 	}
 ]
