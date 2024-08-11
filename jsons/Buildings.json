@@ -11,7 +11,7 @@
 		"requiredTech": "Machinery"
 	},
 	{
-		"name": "Denso Mill",
+		"name": "Watermill plant",
 		"replaces": "Water Mill",
 		"uniqueTo": "Penasulia",
 		"cost": 75,
@@ -23,7 +23,37 @@
 		"requiredTech": "Engineering"
 	},
 	{
-		"name": "Denzo Mill",
+		"name": "Artisan Workshop",
+		"replaces": "Workshop",
+		"uniqueTo": "Penasulia",
+		"cost": 60,
+		"hurryCostModifier": 160,
+		"culture": 2,
+		"production": 2,
+		"maintenance": 0,
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Concert Theatre",
+		"replaces": "Theatre",
+		"uniqueTo": "Penasulia",
+		"cost": 175,
+		"hurryCostModifier": 740,
+		"culture": 1,
+		"maintenance": 1,
+		"requiredTech": "Printing Press"
+	},
+	{
+		"name": "Graffiti Wall",
+		"replaces": "Wall",
+		"uniqueTo": "Penasulia",
+		"cost": 75,
+		"hurryCostModifier": 400,
+		"culture": 1,
+		"requiredTech": "Masonry"
+	},
+	{
+		"name": "Windmill Mill",
 		"replaces": "Windmill",
 		"uniqueTo": "Penasulia",
 		"cost": 250,
