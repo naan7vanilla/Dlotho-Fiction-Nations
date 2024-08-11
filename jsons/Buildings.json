@@ -6,7 +6,6 @@
 		"cost": 145,
 		"culture": 12,
 		"production": 8,
-		"maintenance": 96,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Workshop",
 		"requiredTech": "Machinery"
@@ -20,6 +19,7 @@
 		"culture": 3,
 		"production": 5,
 		"science": 2,
+		"maintenance": 4,
 		"requiredTech": "Engineering"
 	},
 	{
@@ -31,6 +31,7 @@
 		"culture": 2,
 		"production": 5,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"maintenance": 4,
 		"requiredTech": "Economics"
 	}
 ]
