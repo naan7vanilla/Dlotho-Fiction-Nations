@@ -1,17 +1,30 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"name": "Ostrich Calvary",
+		"unitType": "Archery",
+		"uniqueTo": "Penasulia",
+		"replaces": "Chariot Archer",
+		"movement": 6,
+		"strength": 8,
+		"rangedStrength": 20,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"attackSound": "phasers"
+	}
+		{
+		"name": "Ivies Legion",
+		"unitType": "Ranged",
+		"uniqueTo": "Penasulia",
+		"replaces": "Crossbowman",
+		"movement": 2,
+		"strength": 44,
+		"rangedStrength": 10,
+		"range": 2,
+		"cost": 150,
+		"requiredTech": "Machinery",
+		"requiredResource": "Iron",
+		"promotions": ["March","Cover I"],
 		"attackSound": "phasers"
 	}
 ]
