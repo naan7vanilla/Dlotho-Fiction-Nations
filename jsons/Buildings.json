@@ -45,7 +45,7 @@
 	},
 	{
 		"name": "Graffiti Wall",
-		"replaces": "Wall",
+		"replaces": "Walls",
 		"uniqueTo": "Penasulia",
 		"cost": 75,
 		"hurryCostModifier": 400,
