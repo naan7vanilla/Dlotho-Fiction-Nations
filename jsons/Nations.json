@@ -29,7 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "INDIE_GUILD",
+		"unique": ["INDIE_GUILD",+1 Gold, +2 Production] from every [specialist],
 		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
 			"Molasi","Sato","Fuzu","Hemecohan","Tzsubakyir","Cudo","Federhafen"]
 	}
