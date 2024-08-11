@@ -16,13 +16,13 @@
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Haie I am listening...","Etto?","Wanna cup o tea mr ambassador?"],
-		"neutralNo": ["Sorry, I dont."],
+		"neutralNo": "Sorry, I dont.",
 		"neutralYes": ["Iaraa, very good.","Of course, yes."],
 
-		"hateHello": ["Leave us alone in peace"],
-		"hateLetsHearIt": ["Speak! Go on..."],
+		"hateHello": "Leave us alone in peace",
+		"hateLetsHearIt": "Speak! Go on...",
 		"hateNo": ["That is not possible!","We are not agreeing to that!"],
-		"hateYes": ["Hhh, farewell"],
+		"hateYes": "Hhh, farewell",
 		
 		"afterPeace": "Bon voyage me old cream cracker!",
 		"tradeRequest": "Whats exotic goods.",
