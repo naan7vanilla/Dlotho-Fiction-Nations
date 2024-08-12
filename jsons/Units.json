@@ -5,10 +5,11 @@
 		"uniqueTo": "Penasulia",
 		"replaces": "Chariot Archer",
 		"movement": 6,
-		"strength": 8,
+		"strength": 5,
 		"rangedStrength": 20,
 		"range": 2,
 		"cost": 56,
+		"uniques": "Can move after attacking",
 		"requiredTech": "Horseback Riding",
 		"attackSound": "phasers"
 	},
@@ -17,15 +18,15 @@
 		"unitType": "Fighter",
 		"uniqueTo": "Penasulia",
 		"replaces": "Triplane",
-		"strength": 15,
-		"rangedStrength": 15,
+		"strength": 11,
+		"rangedStrength": 11,
 		"range": 5,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"promotions": ["Bombardment I"],
 		"attackSound": "phasers"
 	},
-		{
+	{
 		"name": "Ivies Legion",
 		"unitType": "Archery",
 		"uniqueTo": "Penasulia",
@@ -37,7 +38,23 @@
 		"cost": 150,
 		"requiredTech": "Machinery",
 		"requiredResource": "Iron",
+		"uniques": "No defensive terrain penalty",
 		"promotions": ["Cover I","March"],
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Polybolos",
+		"unitType": "Siege",
+		"uniqueTo": "Penasulia",
+		"replaces": "Trebuchet",
+		"movement": 1,
+		"strength": 5,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 185,
+		"requiredTech": "Physics",
+		"uniques": "Must set up to ranged attack",
+		"promotions": ["Logistics"],
 		"attackSound": "phasers"
 	}
 ]
