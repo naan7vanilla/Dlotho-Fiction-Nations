@@ -51,6 +51,8 @@
 		"cost": 75,
 		"hurryCostModifier": 400,
 		"culture": 1,
+		"City strength": 5,
+		"City health": 50,
 		"requiredTech": "Masonry"
 	},
 	{
@@ -61,8 +63,6 @@
 		"hurryCostModifier": 1000,
 		"culture": 2,
 		"production": 5,
-		"city strength": 5,
-		"city health": 50,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"maintenance": 4,
 		"requiredTech": "Economics"
