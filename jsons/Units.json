@@ -9,7 +9,7 @@
 		"rangedStrength": 20,
 		"range": 2,
 		"cost": 56,
-		"requiredTech": "The Wheel",
+		"requiredTech": "Horseback Riding",
 		"attackSound": "phasers"
 	},
 	{
