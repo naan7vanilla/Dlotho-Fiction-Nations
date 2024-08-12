@@ -45,6 +45,28 @@
 		"maintenance": 1,
 		"requiredTech": "Printing Press"
 	},
+		{
+		"name": "Doujinshi",
+		"replaces": "Library",
+		"uniqueTo": "Penasulia",
+		"cost": 75,
+		"hurryCostModifier": 400,
+		"culture": 1,
+		"science": 3,
+		"maintenance": 1,
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Art School",
+		"replaces": "Public School",
+		"uniqueTo": "Penasulia",
+		"cost": 500,
+		"hurryCostModifier": 920,
+		"culture": 1,
+		"science": 3,
+		"maintenance": 6,
+		"requiredTech": "Scientific Theory"
+	},
 	{
 		"name": "Graffiti Wall",
 		"replaces": "Walls",
@@ -55,7 +77,7 @@
 		"requiredTech": "Masonry"
 	},
 	{
-		"name": "Windmill Mill",
+		"name": "Windmill Power Plant",
 		"replaces": "Windmill",
 		"uniqueTo": "Penasulia",
 		"cost": 250,
