@@ -41,6 +41,7 @@
 		"cost": 175,
 		"hurryCostModifier": 740,
 		"culture": 1,
+		"happiness": 1,
 		"maintenance": 1,
 		"requiredTech": "Printing Press"
 	},
