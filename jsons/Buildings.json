@@ -20,6 +20,7 @@
 		"production": 5,
 		"science": 2,
 		"maintenance": 4,
+		"uniques": ["Must be on River"],
 		"requiredTech": "Engineering"
 	},
 	{
