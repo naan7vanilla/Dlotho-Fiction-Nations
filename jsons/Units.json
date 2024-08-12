@@ -85,7 +85,7 @@
 	},
 	{
 		"name": "Wooden Spearman",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "Penasulia",
 		"replaces": "Spearman",
 		"movement": 2,
