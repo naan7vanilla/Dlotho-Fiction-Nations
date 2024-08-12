@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Indie Art Guild",
+		"name": "Artisan Guild",
 		"replaces": "Ironworks",
 		"uniqueTo": "Penasulia",
 		"cost": 145,
-		"culture": 12,
+		"culture": 4,
 		"production": 8,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Artisan Workshop",
@@ -15,10 +15,32 @@
 		"replaces": "National Epic",
 		"uniqueTo": "Penasulia",
 		"cost": 145,
-		"culture": 5,
+		"culture": 12,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Monument",
 		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Satomi University",
+		"replaces": "Oxford University",
+		"uniqueTo": "Penasulia",
+		"cost": 145,
+		"culture": 4,
+		"science": 3,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "University",
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Merchant Guild",
+		"replaces": "East India Company",
+		"uniqueTo": "Penasulia",
+		"cost": 145,
+		"culture": 4,
+		"gold": 6,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Flee Market",
+		"requiredTech": "Guilds"
 	},
 	{
 		"name": "Watermill plant",
@@ -78,6 +100,16 @@
 		"requiredTech": "Archaeology"
 	},
 	{
+		"name": "Clinic",
+		"replaces": "Hospital",
+		"uniqueTo": "Penasulia",
+		"cost": 180,
+		"hurryCostModifier": 600,
+		"food": 3,
+		"maintenance": 2,
+		"requiredTech": "Biology"
+	},
+	{
 		"name": "Patroned Studio",
 		"replaces": "Stock Exchange",
 		"uniqueTo": "Penasulia",
@@ -86,6 +118,16 @@
 		"culture": 5,
 		"gold": 3,
 		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Flea Market",
+		"replaces": "Market",
+		"uniqueTo": "Penasulia",
+		"cost": 50,
+		"hurryCostModifier": 250,
+		"culture": 1,
+		"gold": 2,
+		"requiredTech": "Currency"
 	},
 	{
 		"name": "Autonomous Court",
@@ -103,7 +145,7 @@
 		"uniqueTo": "Penasulia",
 		"cost": 360,
 		"hurryCostModifier": 1050,
-		"culture": 1,
+		"production": 4,
 		"maintenance": 6,
 		"requiredTech": "Industrialization"
 	},
