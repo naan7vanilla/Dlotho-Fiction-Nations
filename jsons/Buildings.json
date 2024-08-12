@@ -126,6 +126,7 @@
 		"cost": 50,
 		"hurryCostModifier": 250,
 		"culture": 1,
+		"happiness": -1,
 		"gold": 2,
 		"requiredTech": "Currency"
 	},
@@ -230,7 +231,7 @@
 		"cost": 100,
 		"hurryCostModifier": 780,
 		"culture": 1,
-		"science": 1
+		"science": 1,
 		"requiredTech": "Calendar"
 	},
 	{
