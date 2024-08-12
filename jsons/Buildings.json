@@ -51,8 +51,6 @@
 		"cost": 75,
 		"hurryCostModifier": 400,
 		"culture": 1,
-		"City strength": 5,
-		"City health": 50,
 		"requiredTech": "Masonry"
 	},
 	{
