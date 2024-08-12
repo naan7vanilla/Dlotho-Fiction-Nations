@@ -68,6 +68,27 @@
 		"requiredTech": "Scientific Theory"
 	},
 	{
+		"name": "Country Fair",
+		"replaces": "Circus",
+		"uniqueTo": "Penasulia",
+		"cost": 75,
+		"hurryCostModifier": 400,
+		"culture": 1,
+		"happiness": 1,
+		"requiredTech": "Trapping"
+	},
+	{
+		"name": "Pitch",
+		"replaces": "Colosseum",
+		"uniqueTo": "Penasulia",
+		"cost": 100,
+		"hurryCostModifier": 500,
+		"culture": 1,
+		"happiness": 1,
+		"maintenance": 1,
+		"requiredTech": "Trapping"
+	},
+	{
 		"name": "Graffiti Wall",
 		"replaces": "Walls",
 		"uniqueTo": "Penasulia",
@@ -77,6 +98,28 @@
 		"requiredTech": "Masonry"
 	},
 	{
+		"name": "Mansion",
+		"replaces": "Castle",
+		"uniqueTo": "Penasulia",
+		"cost": 160,
+		"hurryCostModifier": 720,
+		"culture": 1,
+		"food": 1,
+		"happiness": -2,
+		"maintenance": 2,
+		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Stargazing",
+		"replaces": "Observatory",
+		"uniqueTo": "Penasulia",
+		"cost": 100,
+		"hurryCostModifier": 780,
+		"culture": 1,
+		"science": 1
+		"requiredTech": "Calendar"
+	},
+	{
 		"name": "Windmill Power Plant",
 		"replaces": "Windmill",
 		"uniqueTo": "Penasulia",
@@ -84,8 +127,18 @@
 		"hurryCostModifier": 1000,
 		"culture": 2,
 		"production": 5,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"maintenance": 4,
 		"requiredTech": "Economics"
+	},
+	{
+		"name": "Water Bus",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Penasulia",
+		"cost": 100,
+		"hurryCostModifier": 400,
+		"culture": 1,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"maintenance": 4,
+		"requiredTech": "Engineering"
 	}
 ]
