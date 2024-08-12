@@ -96,13 +96,13 @@
 	},
 	{
 		"name": "Firelancer",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "Penasulia",
-		"replaces": "Longswordman",
+		"replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 18,
 		"cost": 100,
-		"requiredTech": "Gundpowder",
+		"requiredTech": "Steel",
 		"promotions": ["Blitz"],
 		"attackSound": "phasers"
 	},
