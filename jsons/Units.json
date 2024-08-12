@@ -9,7 +9,7 @@
 		"rangedStrength": 20,
 		"range": 2,
 		"cost": 56,
-		"uniques": "Can move after attacking",
+		"uniques": ["Can move after attacking"],
 		"requiredTech": "Horseback Riding",
 		"attackSound": "phasers"
 	},
@@ -38,7 +38,7 @@
 		"cost": 150,
 		"requiredTech": "Machinery",
 		"requiredResource": "Iron",
-		"uniques": "No defensive terrain penalty",
+		"uniques": ["No defensive terrain penalty"],
 		"promotions": ["Cover I","March"],
 		"attackSound": "phasers"
 	},
@@ -53,7 +53,7 @@
 		"range": 2,
 		"cost": 185,
 		"requiredTech": "Physics",
-		"uniques": "Must set up to ranged attack",
+		"uniques": ["Must set up to ranged attack"],
 		"promotions": ["Logistics"],
 		"attackSound": "phasers"
 	}
