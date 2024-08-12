@@ -61,6 +61,8 @@
 		"hurryCostModifier": 1000,
 		"culture": 2,
 		"production": 5,
+		"city strength": 5,
+		"city health": 50,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"maintenance": 4,
 		"requiredTech": "Economics"
