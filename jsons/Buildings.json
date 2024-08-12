@@ -31,8 +31,37 @@
 		"hurryCostModifier": 160,
 		"culture": 2,
 		"production": 2,
-		"maintenance": 0,
 		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Gallery",
+		"replaces": "Museum",
+		"uniqueTo": "Penasulia",
+		"cost": 300,
+		"hurryCostModifier": 2000,
+		"culture": 5,
+		"maintenance": 2,
+		"requiredTech": "Archaeology"
+	},
+	{
+		"name": "Autonomous Court",
+		"replaces": "Courthouse",
+		"uniqueTo": "Penasulia",
+		"cost": 100,
+		"hurryCostModifier": 600,
+		"culture": 1,
+		"maintenance": 4,
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Electric Factory",
+		"replaces": "Factory",
+		"uniqueTo": "Penasulia",
+		"cost": 360,
+		"hurryCostModifier": 1050,
+		"culture": 1,
+		"maintenance": 6,
+		"requiredTech": "Industrialization"
 	},
 	{
 		"name": "Concert Theatre",
