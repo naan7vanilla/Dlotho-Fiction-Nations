@@ -21,7 +21,7 @@
 		"science": 2,
 		"maintenance": 4,
 		"uniques": ["Must be on River"],
-		"requiredTech": "Engineering"
+		"requiredTech": "The Wheel"
 	},
 	{
 		"name": "Artisan Workshop",
