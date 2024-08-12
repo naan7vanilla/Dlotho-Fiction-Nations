@@ -136,7 +136,6 @@
 		"cost": 100,
 		"hurryCostModifier": 600,
 		"culture": 1,
-		"maintenance": 4,
 		"requiredTech": "Mathematics"
 	},
 	{
