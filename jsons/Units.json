@@ -56,5 +56,54 @@
 		"uniques": ["Must set up to ranged attack"],
 		"promotions": ["Logistics"],
 		"attackSound": "phasers"
-	}
+	},
+	{
+		"name": "Mantis Squad",
+		"unitType": "Archery",
+		"uniqueTo": "Penasulia",
+		"replaces": "Archer",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 7,
+		"range": 2,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Garry",
+		"unitType": "Archery",
+		"uniqueTo": "Penasulia",
+		"replaces": "Composite Bowman",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 11,
+		"range": 2,
+		"cost": 40,
+		"requiredTech": "Construction",
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Wooden Spearman",
+		"unitType": "Melee",
+		"uniqueTo": "Penasulia",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 9,
+		"cost": 40,
+		"requiredTech": "Bronze Working",
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Firelancer",
+		"unitType": "Sword",
+		"uniqueTo": "Penasulia",
+		"replaces": "Longswordman",
+		"movement": 2,
+		"strength": 18,
+		"cost": 100,
+		"requiredTech": "Gunpowder",
+		"promotions": ["Blitz"],
+		"attackSound": "phasers"
+	},
 ]
