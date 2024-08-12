@@ -102,7 +102,7 @@
 		"movement": 2,
 		"strength": 18,
 		"cost": 100,
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Steel",
 		"promotions": ["Blitz"],
 		"attackSound": "phasers"
 	},
