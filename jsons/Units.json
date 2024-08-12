@@ -27,7 +27,7 @@
 	},
 		{
 		"name": "Ivies Legion",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"uniqueTo": "Penasulia",
 		"replaces": "Crossbowman",
 		"movement": 2,
