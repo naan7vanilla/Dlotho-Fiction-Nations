@@ -37,7 +37,7 @@
 		"cost": 150,
 		"requiredTech": "Machinery",
 		"requiredResource": "Iron",
-		"promotions": ["Cover I"],
+		"promotions": ["Cover I","March"],
 		"attackSound": "phasers"
 	}
 ]
