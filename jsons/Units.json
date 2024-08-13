@@ -82,28 +82,5 @@
 		"cost": 40,
 		"requiredTech": "Construction",
 		"attackSound": "phasers"
-	},
-	{
-		"name": "Wooden Spearman",
-		"unitType": "Sword",
-		"uniqueTo": "Penasulia",
-		"replaces": "Spearman",
-		"movement": 2,
-		"strength": 9,
-		"cost": 40,
-		"requiredTech": "Bronze Working",
-		"attackSound": "phasers"
-	},
-	{
-		"name": "Firelancer",
-		"unitType": "Sword",
-		"uniqueTo": "Penasulia",
-		"replaces": "Longswordsman",
-		"movement": 2,
-		"strength": 18,
-		"cost": 100,
-		"requiredTech": "Steel",
-		"promotions": ["Blitz"],
-		"attackSound": "phasers"
-	},
+	}
 ]
