@@ -204,15 +204,6 @@
 		"requiredTech": "Trapping"
 	},
 	{
-		"name": "Graffiti Wall",
-		"replaces": "Walls",
-		"uniqueTo": "Penasulia",
-		"cost": 75,
-		"hurryCostModifier": 400,
-		"culture": 1,
-		"requiredTech": "Masonry"
-	},
-	{
 		"name": "Mansion",
 		"replaces": "Castle",
 		"uniqueTo": "Penasulia",
