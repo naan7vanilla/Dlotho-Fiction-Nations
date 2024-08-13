@@ -161,7 +161,7 @@
 		"requiredTech": "Printing Press"
 	},
 		{
-		"name": "Doujinshi",
+		"name": "Bookshop",
 		"replaces": "Library",
 		"uniqueTo": "Penasulia",
 		"cost": 75,
