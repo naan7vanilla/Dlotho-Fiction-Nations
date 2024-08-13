@@ -232,8 +232,8 @@
 		"cost": 250,
 		"hurryCostModifier": 1000,
 		"culture": 2,
-		"production": 5,
-		"maintenance": 4,
+		"production": 3,
+		"maintenance": 3,
 		"requiredTech": "Economics"
 	},
 	{
