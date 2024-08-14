@@ -1,78 +1,46 @@
 [
 	{
-		"name": "Satomi University",
-		"replaces": "Oxford University",
+		"name": "Water Polo Pool",
+		"replaces": "Colosseum",
+		"uniqueTo": "Penasulia",
+		"cost": 100,
+		"hurryCostModifier": 500,
+		"culture": 1,
+		"happiness": 1,
+		"maintenance": 1,
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Literature Guild",
+		"replaces": "National Epic",
 		"uniqueTo": "Penasulia",
 		"cost": 145,
-		"culture": 4,
-		"science": 3,
+		"culture": 12,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "University",
-		"requiredTech": "Education"
+		"requiredBuildingInAllCities": "Monument",
+		"requiredTech": "Drama and Poetry"
 	},
 	{
 		"name": "Merchant Guild",
 		"replaces": "East India Company",
 		"uniqueTo": "Penasulia",
-		"cost": 145,
+		"cost": 125,
 		"culture": 4,
-		"gold": 6,
+		"gold": 4,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Flee Market",
+		"requiredBuildingInAllCities": "Market",
 		"requiredTech": "Guilds"
 	},
 	{
-		"name": "Pond",
-		"replaces": "Garden",
+		"name": "Satomi University",
+		"replaces": "Oxford University",
 		"uniqueTo": "Penasulia",
-		"cost": 120,
-		"hurryCostModifier": 580,
-		"culture": 1,
-		"happiness": 1,
-		"maintenance": 1,
-		"requiredTech": "Theology"
-	},
-	{
-		"name": "Water Polo Stadium",
-		"replaces": "Stadium",
-		"uniqueTo": "Penasulia",
-		"cost": 600,
-		"hurryCostModifier": 1350,
-		"culture": 2,
-		"happiness": 2,
-		"maintenance": 3,
-		"requiredTech": "Refrigeration"
-	},
-	{
-		"name": "Patroned Studio",
-		"replaces": "Stock Exchange",
-		"uniqueTo": "Penasulia",
-		"cost": 360,
-		"hurryCostModifier": 1210,
-		"culture": 5,
-		"gold": 3,
-		"requiredTech": "Electricity"
-	},
-	{
-		"name": "Flea Market",
-		"replaces": "Market",
-		"uniqueTo": "Penasulia",
-		"cost": 50,
-		"hurryCostModifier": 250,
-		"culture": 1,
-		"happiness": -1,
-		"gold": 2,
-		"requiredTech": "Currency"
-	},
-	{
-		"name": "Electric Factory",
-		"replaces": "Factory",
-		"uniqueTo": "Penasulia",
-		"cost": 360,
-		"hurryCostModifier": 1050,
-		"production": 4,
-		"maintenance": 6,
-		"requiredTech": "Industrialization"
+		"cost": 145,
+		"science": 3,
+		"culture": 4,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "University",
+		"requiredTech": "Education"
 	},
 	{
 		"name": "Concert Theatre",
@@ -84,40 +52,6 @@
 		"happiness": 1,
 		"maintenance": 1,
 		"requiredTech": "Printing Press"
-	},
-	{
-		"name": "Bookshop",
-		"replaces": "Library",
-		"uniqueTo": "Penasulia",
-		"cost": 75,
-		"hurryCostModifier": 400,
-		"culture": 1,
-		"science": 3,
-		"maintenance": 1,
-		"requiredTech": "Writing"
-	},
-	{
-		"name": "Pitch",
-		"replaces": "Colosseum",
-		"uniqueTo": "Penasulia",
-		"cost": 100,
-		"hurryCostModifier": 500,
-		"culture": 1,
-		"happiness": 1,
-		"maintenance": 1,
-		"requiredTech": "Trapping"
-	},
-	{
-		"name": "Mansion",
-		"replaces": "Castle",
-		"uniqueTo": "Penasulia",
-		"cost": 160,
-		"hurryCostModifier": 720,
-		"culture": 1,
-		"food": 1,
-		"happiness": -2,
-		"maintenance": 2,
-		"requiredTech": "Chivalry"
 	},
 	{
 		"name": "Windmill Power Plant",
