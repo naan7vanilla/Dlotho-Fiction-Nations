@@ -7,7 +7,7 @@
 		"hurryCostModifier": 500,
 		"culture": 1,
 		"happiness": 1,
-		"maintenance": 1,
+		"maintenance": 2,
 		"requiredTech": "Construction"
 	},
 	{
@@ -59,8 +59,7 @@
 		"uniqueTo": "Penasulia",
 		"cost": 250,
 		"hurryCostModifier": 1000,
-		"culture": 2,
-		"production": 3,
+		"production": 4,
 		"maintenance": 3,
 		"requiredTech": "Economics"
 	},
