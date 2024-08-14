@@ -11,6 +11,17 @@
 		"requiredTech": "Construction"
 	},
 	{
+		"name": "Pond",
+		"replaces": "Garden",
+		"uniqueTo": "Penasulia",
+		"cost": 120,
+		"hurryCostModifier": 580,
+		"culture": 1,
+		"happiness": 1,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+	{
 		"name": "Literature Guild",
 		"replaces": "National Epic",
 		"uniqueTo": "Penasulia",
@@ -62,5 +73,15 @@
 		"production": 4,
 		"maintenance": 3,
 		"requiredTech": "Economics"
+	},
+	{
+		"name": "Patroned Studio",
+		"replaces": "Stock Exchange",
+		"uniqueTo": "Penasulia",
+		"cost": 360,
+		"hurryCostModifier": 1210,
+		"gold": 3,
+		"culture": 5,
+		"requiredTech": "Electricity"
 	},
 ]
