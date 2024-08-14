@@ -1,26 +1,5 @@
 [
 	{
-		"name": "Artisan Guild",
-		"replaces": "Ironworks",
-		"uniqueTo": "Penasulia",
-		"cost": 145,
-		"culture": 4,
-		"production": 8,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Artisan Workshop",
-		"requiredTech": "Machinery"
-	},
-	{
-		"name": "National Literature Guild",
-		"replaces": "National Epic",
-		"uniqueTo": "Penasulia",
-		"cost": 145,
-		"culture": 12,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Monument",
-		"requiredTech": "Drama and Poetry"
-	},
-	{
 		"name": "Satomi University",
 		"replaces": "Oxford University",
 		"uniqueTo": "Penasulia",
@@ -43,19 +22,6 @@
 		"requiredTech": "Guilds"
 	},
 	{
-		"name": "Watermill plant",
-		"replaces": "Water Mill",
-		"uniqueTo": "Penasulia",
-		"cost": 75,
-		"hurryCostModifier": 160,
-		"culture": 3,
-		"production": 5,
-		"science": 2,
-		"maintenance": 4,
-		"uniques": ["Must be on River"],
-		"requiredTech": "The Wheel"
-	},
-	{
 		"name": "Pond",
 		"replaces": "Garden",
 		"uniqueTo": "Penasulia",
@@ -64,7 +30,6 @@
 		"culture": 1,
 		"happiness": 1,
 		"maintenance": 1,
-		"uniques": ["Must be next to Fresh Water"],
 		"requiredTech": "Theology"
 	},
 	{
@@ -76,38 +41,7 @@
 		"culture": 2,
 		"happiness": 2,
 		"maintenance": 3,
-		"uniques": ["Must be next to Fresh Water"],
 		"requiredTech": "Refrigeration"
-	},
-	{
-		"name": "Artisan Workshop",
-		"replaces": "Workshop",
-		"uniqueTo": "Penasulia",
-		"cost": 60,
-		"hurryCostModifier": 160,
-		"culture": 2,
-		"production": 2,
-		"requiredTech": "Metal Casting"
-	},
-	{
-		"name": "Gallery",
-		"replaces": "Museum",
-		"uniqueTo": "Penasulia",
-		"cost": 300,
-		"hurryCostModifier": 2000,
-		"culture": 5,
-		"maintenance": 2,
-		"requiredTech": "Archaeology"
-	},
-	{
-		"name": "Clinic",
-		"replaces": "Hospital",
-		"uniqueTo": "Penasulia",
-		"cost": 180,
-		"hurryCostModifier": 600,
-		"food": 3,
-		"maintenance": 2,
-		"requiredTech": "Biology"
 	},
 	{
 		"name": "Patroned Studio",
@@ -131,15 +65,6 @@
 		"requiredTech": "Currency"
 	},
 	{
-		"name": "Autonomous Court",
-		"replaces": "Courthouse",
-		"uniqueTo": "Penasulia",
-		"cost": 100,
-		"hurryCostModifier": 600,
-		"culture": 1,
-		"requiredTech": "Mathematics"
-	},
-	{
 		"name": "Electric Factory",
 		"replaces": "Factory",
 		"uniqueTo": "Penasulia",
@@ -160,7 +85,7 @@
 		"maintenance": 1,
 		"requiredTech": "Printing Press"
 	},
-		{
+	{
 		"name": "Bookshop",
 		"replaces": "Library",
 		"uniqueTo": "Penasulia",
@@ -170,27 +95,6 @@
 		"science": 3,
 		"maintenance": 1,
 		"requiredTech": "Writing"
-	},
-	{
-		"name": "Art School",
-		"replaces": "Public School",
-		"uniqueTo": "Penasulia",
-		"cost": 500,
-		"hurryCostModifier": 920,
-		"culture": 1,
-		"science": 3,
-		"maintenance": 6,
-		"requiredTech": "Scientific Theory"
-	},
-	{
-		"name": "Country Fair",
-		"replaces": "Circus",
-		"uniqueTo": "Penasulia",
-		"cost": 75,
-		"hurryCostModifier": 400,
-		"culture": 1,
-		"happiness": 1,
-		"requiredTech": "Trapping"
 	},
 	{
 		"name": "Pitch",
@@ -216,16 +120,6 @@
 		"requiredTech": "Chivalry"
 	},
 	{
-		"name": "Stargazing",
-		"replaces": "Observatory",
-		"uniqueTo": "Penasulia",
-		"cost": 100,
-		"hurryCostModifier": 780,
-		"culture": 1,
-		"science": 1,
-		"requiredTech": "Calendar"
-	},
-	{
 		"name": "Windmill Power Plant",
 		"replaces": "Windmill",
 		"uniqueTo": "Penasulia",
@@ -236,15 +130,4 @@
 		"maintenance": 3,
 		"requiredTech": "Economics"
 	},
-	{
-		"name": "Water Bus",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Penasulia",
-		"cost": 100,
-		"hurryCostModifier": 400,
-		"culture": 1,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"maintenance": 4,
-		"requiredTech": "Engineering"
-	}
 ]
