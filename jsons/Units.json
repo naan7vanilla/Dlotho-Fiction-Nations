@@ -6,7 +6,7 @@
 		"replaces": "Chariot Archer",
 		"movement": 6,
 		"strength": 5,
-		"rangedStrength": 18,
+		"rangedStrength": 11,
 		"range": 2,
 		"cost": 56,
 		"uniques": ["Can move after attacking"],
