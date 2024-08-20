@@ -2,7 +2,7 @@
 	{
 		"name": "Ostrich Calvary",
 		"unitType": "Archery",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Grand Penasulia",
 		"replaces": "Chariot Archer",
 		"movement": 6,
 		"strength": 5,
