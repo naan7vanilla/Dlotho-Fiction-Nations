@@ -2,7 +2,7 @@
 	{
 		"name": "Water Polo Pool",
 		"replaces": "Colosseum",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Grand Penasulia",
 		"cost": 100,
 		"hurryCostModifier": 500,
 		"culture": 1,
@@ -13,7 +13,7 @@
 	{
 		"name": "Pond",
 		"replaces": "Garden",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Grand Penasulia",
 		"cost": 120,
 		"hurryCostModifier": 580,
 		"culture": 1,
@@ -24,7 +24,7 @@
 	{
 		"name": "Literature Guild",
 		"replaces": "National Epic",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Grand Penasulia",
 		"cost": 145,
 		"culture": 12,
 		"isNationalWonder": true,
@@ -34,7 +34,7 @@
 	{
 		"name": "Merchant Guild",
 		"replaces": "East India Company",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Grand Penasulia",
 		"cost": 125,
 		"culture": 4,
 		"gold": 4,
@@ -45,7 +45,7 @@
 	{
 		"name": "Satomi University",
 		"replaces": "Oxford University",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Grand Penasulia",
 		"cost": 145,
 		"science": 3,
 		"culture": 4,
@@ -56,7 +56,7 @@
 	{
 		"name": "Concert Theatre",
 		"replaces": "Theatre",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Grand Penasulia",
 		"cost": 175,
 		"hurryCostModifier": 740,
 		"culture": 1,
@@ -67,7 +67,7 @@
 	{
 		"name": "Windmill Power Plant",
 		"replaces": "Windmill",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Grand Penasulia",
 		"cost": 250,
 		"hurryCostModifier": 1000,
 		"production": 4,
@@ -77,7 +77,7 @@
 	{
 		"name": "Patroned Studio",
 		"replaces": "Stock Exchange",
-		"uniqueTo": "Penasulia",
+		"uniqueTo": "Grand Penasulia",
 		"cost": 360,
 		"hurryCostModifier": 1210,
 		"gold": 3,
